@@ -1,1 +1,23 @@
+body{background:linear-gradient(biru,merah);}
+        .wadah{
+            margin:otomatis;
+            lebar: 30%;
+            tinggi: 100%;
+            latar belakang:#ff;
+            perbatasan: merah pekat;
+            bayangan kotak: 0px 0px 10px 10px rgba(255, 255, 255, 0.342);
+            batas-radius: 10px;
+            transisi: 1s;
+            bantalan: 8px;
+        }
 
+        .container img {
+            lebar: 100%;
+            batas-radius: 10px;
+            bayangan kotak: 0px 0px 10px 10px rgba(0, 0, 0, 0.342);
+        }
+
+        .container img:arahkan kursor {
+            bayangan kotak: 0 0 50px 3px rgba(60, 255, 0, 0.35);
+            mengubah: translateY(5px);
+        }
